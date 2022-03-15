@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jota-Devs
 - 👀 I’m interested in C#, Python 🐍 and CyberSecurity
-- 🌱 I’m currently learning .Net 
+- 🌱 I’m currently learning Flutter.
 - 📫 How to reach me ...
 
 <!---
